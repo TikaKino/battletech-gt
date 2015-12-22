@@ -1,5 +1,9 @@
 version:9
-Chassis-10,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,10,0,121,728493.3333333334,\Chassis-10.ssw,BattleMech,Biped,Chassis-10 10t  7/11/0  Std FE  Std; 1.0T/39% Armor; 10 SHS,,1,1,ENE~ SRCH~ ES~ SEAL~ SOA,7,0,0,0,0,0,1,1
+Chassis-10,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,10,0,69,732160.0000000001,\Chassis-10.ssw,BattleMech,Biped,Chassis-10 10t  9/14/0  Std FE  Std; 0.0T/0% Armor; 10 SHS,,1,1,ENE~ SRCH~ ES~ SEAL~ SOA,9,0,0,0,0,0,0,1
+Chassis-25,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,25,0,292,1632083.3333333335,\Chassis-25.ssw,BattleMech,Biped,Chassis-25 25t  7/11/0  Std FE  Std; 2.5T/45% Armor; 10 SHS,,3,1,ENE~ SRCH~ ES~ SEAL~ SOA,7,0,0,0,0,0,1,2
+Chassis-30,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,30,0,424,1854840.0,\Chassis-30.ssw,BattleMech,Biped,Chassis-30 30t  6/9/0  Std FE  Std; 5.0T/76% Armor; 10 SHS,,4,1,ENE~ SRCH~ ES~ SEAL~ SOA,6,0,0,0,0,0,3,3
+Chassis-35,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,35,0,483,2271960.0,\Chassis-35.ssw,BattleMech,Biped,Chassis-35 35t  5/8/5  Std FE  Std; 5.5T/74% Armor; 10 SHS,,5,1,ENE~ SRCH~ ES~ SEAL~ SOA,5j,0,0,0,0,0,3,3
 Chassis-40,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,40,0,523,2332026.6666666665,\Chassis-40.ssw,BattleMech,Biped,Chassis-40 40t  5/8/0  Std FE  Std; 6.0T/70% Armor; 10 SHS,,5,2,ENE~ SRCH~ ES~ SEAL~ SOA,5,0,0,0,0,0,3,3
 Chassis-50,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,50,0,571,2797000.0,\Chassis-50.ssw,BattleMech,Biped,Chassis-50 50t  4/6/0  Std FE  Std; 7.0T/66% Armor; 10 SHS,,6,2,ENE~ SRCH~ ES~ SEAL~ SOA,4,0,0,0,0,0,4,4
 Chassis-60,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,60,0,730,4421760.0,\Chassis-60.ssw,BattleMech,Biped,Chassis-60 60t  5/8/0  Std FE  Std; 8.0T/64% Armor; 10 SHS,,7,3,ENE~ SRCH~ ES~ SEAL~ SOA,5,0,0,0,0,0,4,5
+Chassis-80,,,Experimental Tech,All Eras (non-canon),Inner Sphere,,80,0,857,7123440.000000001,\Chassis-80.ssw,BattleMech,Biped,Chassis-80 80t  4/6/4  Std FE  Std; 10.0T/65% Armor; 10 SHS,,9,4,ENE~ SRCH~ ES~ SEAL~ SOA,4j,0,0,0,0,0,5,6
